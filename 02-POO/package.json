@@ -1,0 +1,13 @@
+{
+  "name": "02-poo",
+  "version": "1.0.0",
+  "main": "01-objetoLiteral.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
