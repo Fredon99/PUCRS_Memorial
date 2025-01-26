@@ -1,4 +1,4 @@
- # Estrutura de dados
+ # Programação oriendada a objetos
 
 1. **Objeto literal** - Uma forma de criar objetos diretamente, sem usar classes.
 2. **Encapsulamento** - Lista ordenada de elementos.
