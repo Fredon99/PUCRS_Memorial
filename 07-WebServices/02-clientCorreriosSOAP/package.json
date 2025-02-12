@@ -1,0 +1,19 @@
+{
+  "name": "02-clientcorreriossoap",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "flatted": "^3.3.2",
+    "nodemon": "^3.1.9",
+    "soap": "^1.1.7"
+  }
+}
