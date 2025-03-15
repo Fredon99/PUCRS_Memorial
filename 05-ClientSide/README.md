@@ -2,7 +2,7 @@
 
 Refere-se a um modelo de desenvolvimento em que a maior parte do processamento, renderização e lógica da aplicação é executada no ambiente do cliente (navegador), enquanto o servidor é responsável principalmente por disponibilizar os recursos e dados necessários para o funcionamento da aplicação.
 
-# Aplicação desenvolvida
+## Aplicação desenvolvida - Lista de Afazeres
 
 Foi desenvolvida uma aplicação de Lista de Afazeres, onde o usuário consegue adicionar uma nova tarefa, marcar uma tarefa como concluída, além de realizar a deleção das tarefas.
 
