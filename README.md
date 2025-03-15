@@ -46,6 +46,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
         04. Ordernação por seleção [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/02-algoritmos%20de%20busca%20e%20ordena%C3%A7%C3%A3o/04-selectionSort.js)
 
+
 02. Programação Orientada a Objetos
 
     01. Objeto Literal [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/01-objetoLiteral.js)
@@ -55,6 +56,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     03. Heranca [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/03-heranca.js)
 
     04. Polimorfismo [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/04-polimorfismo.js)
+
 
 03. DevOps Básico
 
@@ -66,15 +68,18 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     3.04 Exemplo de pipeline com integração contínua.[:link:](https://github.com/tgoalm/conversao-temperatura/actions)
 
+
 04. Programação WEB
 
-    MPA [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/04-ProgamacaoWEB/mpa)
+    - MPA [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/04-ProgamacaoWEB/mpa)
 
-    PWA [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/04-ProgamacaoWEB/pwa)
+    - PWA [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/04-ProgamacaoWEB/pwa)
 
-    SPA [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/04-ProgamacaoWEB/spa)
+    - SPA [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/04-ProgamacaoWEB/spa)
+
 
 05. Arquitetura Client-Side [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/05-ClientSide)
+
 
 06. Arquitetura Server-Side
 
@@ -88,6 +93,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     05. CRUD com express [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/06-ServerSide/05-crud_express)
 
+
 07. WEBServices
 
     01. Cliente cálculo SOAP [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/07-WebServices/01-clientCalculoSOAP)
@@ -98,6 +104,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     
     04. Cliente REST [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/07-WebServices/04-clientREST)
 
+
 08. Teste e qualidade de software
 
     01. Teste estático [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/08-TesteQualidadeSoftware/01-TesteEstatico)
@@ -105,6 +112,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     02. Teste unitário [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/08-TesteQualidadeSoftware/02-TesteUnitario)
 
     03. Teste de integração [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/08-TesteQualidadeSoftware/03-TesteIntegracao)
+
 
 09. Banco de dados Relacional
 
@@ -122,6 +130,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
         Insert [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/09-BancoRelacional/05-ModeloFisico/insert.sql)
 
+
 10. Banco de dados Relacional
 
     01. Inserts [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/09-BancoRelacional/01-Minimundo)
@@ -129,6 +138,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     02.  Busca [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/09-BancoRelacional/02-ModeloConceitual)
 
     03. Join [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/09-BancoRelacional/03-ModeloLogico)
+
 
 11. Segurança de software
 
@@ -143,6 +153,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     05. SSL TLS [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/11-SegurancaSoftware/05-ssl_tsl.sh)
 
     06. HTTPS Server [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/11-SegurancaSoftware/06-https_server)
+
 
 12. Microsserviços
 
