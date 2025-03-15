@@ -9,7 +9,7 @@ Uma MPA (Multi-Page Application) é um site tradicional onde cada nova página �
 - Single-Page Application
 Uma SPA (Single-Page Application) é uma aplicação web que carrega uma única página e usa JavaScript para atualizar o conteúdo dinamicamente.
 
--Progressive Web Application
+- Progressive Web Application
 PWA (Progressive Web Application) é uma aplicação web que pode ser instalada no dispositivo
 
 # Execução das páginas
