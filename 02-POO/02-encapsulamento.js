@@ -14,4 +14,4 @@ export default class User {
 
 const novoUser = new User('João','j@j.com','02/09/2001')
 
-// console.log(novoUser.exibirInfos())
+//console.log(novoUser.exibirInfos())

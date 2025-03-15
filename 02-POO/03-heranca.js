@@ -13,5 +13,5 @@ class Admin extends User {
 const novoAdmin = new Admin("Rodrigo", "r@r.com", "16/09/1964")
 
 
-// console.log(novoAdmin.exibirInfos())
-// console.log(novoAdmin.criarCurso('javascript', 20))
+//console.log(novoAdmin.exibirInfos())
+//console.log(novoAdmin.criarCurso('javascript', 20))
