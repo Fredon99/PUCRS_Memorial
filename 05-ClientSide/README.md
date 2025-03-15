@@ -12,11 +12,11 @@ Esta aplicação foi desenvolvida utilizando React, uma biblioteca JavaScript pa
 
 ## Funcionamento
 
-- Requisitos
+### Requisitos
 
-[NodeJS](https://nodejs.org/en)
+- [NodeJS](https://nodejs.org/en)
 
-- Execução
+### Execução
 
 Na pasta raiz do projeto onde está localizado o arquivo "package.json" é necessário executar o comando abaixo para instalação das dependências
 ```
