@@ -1,11 +1,11 @@
 # Requisitos
-- [NodeJS 18+](https://nodejs.org/)
+- [NodeJS](https://nodejs.org/)
 
 # Programação oriendada a objetos
 
 Este projeto objetiva executar na prática o que está respresentado do seguinte diagrama de classes:
 
-![Texto alternativo](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/docs/Classe%20UML.png)
+![Texto alternativo](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/00-diagramaClasse.png)
 
 Através dos seguintes conceitos de Programação Orientada a Objetos:
 
