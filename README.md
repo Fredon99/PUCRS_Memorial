@@ -8,21 +8,21 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
         01. String [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/01-string.js)
 
-        02. Array [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/02-array.js)
+        02. Array
 
-            02.01 Array.length 
+            01. Array.length 
 
-            02.02 Array.some
+            02. Array.some
 
-            02.03 Array.every
+            03. Array.every
 
-            02.04 Array.filter
+            04. Array.filter
 
-            02.05 Array.forEach
+            05. Array.forEach
 
-            02.06 Array.reduce
+            06. Array.reduce
 
-            02.07 Array.map 
+            07. Array.map 
 
         03. Object [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/03-object.js)
 
