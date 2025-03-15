@@ -12,6 +12,6 @@ Uma SPA (Single-Page Application) é uma aplicação web que carrega uma única 
 - Progressive Web Application
 PWA (Progressive Web Application) é uma aplicação web que pode ser instalada no dispositivo
 
-# Execução das páginas
+### Execução das páginas
 
 Em cada uma das pastas das aplicações tem uma explicação mais detalhada do funcionamento de cada uma delas.
