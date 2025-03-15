@@ -165,5 +165,3 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     03. Carrinho de compras [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/12-Microsservicos/03-CarrinhoCompras)
 
     04. FaaS [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/12-Microsservicos/04-FaaS)
-
-    
