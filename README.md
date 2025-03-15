@@ -50,11 +50,11 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     01. Objeto Literal [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/01-objetoLiteral.js)
 
-   02. Encapsulamento [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/02-encapsulamento.js)
+    02. Encapsulamento [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/02-encapsulamento.js)
 
-   03. Heranca [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/03-heranca.js)
+    03. Heranca [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/03-heranca.js)
 
-   04. Polimorfismo [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/04-polimorfismo.js)
+    04. Polimorfismo [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/02-POO/04-polimorfismo.js)
 
 03. DevOps Básico
 
@@ -88,7 +88,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     05. CRUD com express [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/06-ServerSide/05-crud_express)
 
-07.  WEBServices
+07. WEBServices
 
     01. Cliente cálculo SOAP [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/07-WebServices/01-clientCalculoSOAP)
 
@@ -98,7 +98,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
     
     04. Cliente REST [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/07-WebServices/04-clientREST)
 
-08.  Teste e qualidade de software
+08. Teste e qualidade de software
 
     01. Teste estático [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/08-TesteQualidadeSoftware/01-TesteEstatico)
 
@@ -106,7 +106,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
     03. Teste de integração [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/08-TesteQualidadeSoftware/03-TesteIntegracao)
 
-09.  Banco de dados Relacional
+09. Banco de dados Relacional
 
     01. Minimundo [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/09-BancoRelacional/01-Minimundo)
 
@@ -122,7 +122,7 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
         Insert [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/09-BancoRelacional/05-ModeloFisico/insert.sql)
 
-10.  Banco de dados Relacional
+10. Banco de dados Relacional
 
     01. Inserts [:link:](https://github.com/Fredon99/PUCRS_Memorial/tree/main/09-BancoRelacional/01-Minimundo)
 
