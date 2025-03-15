@@ -1,0 +1,20 @@
+{
+  "name": "dominio",
+  "version": "1.0.0",
+  "description": "Microsserviço simples reperestando um webservice de usuário e outro de pedidos se comunicando através de proxy reverso",
+  "type" : "module",
+  "main": "src/gateway/server.js",
+  "scripts": {
+    "start": "node src/gateway/server.js", 
+    "start:users": "node src/user-service/server.js",
+    "start:orders": "node src/order-service/server.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^2.0.1"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
