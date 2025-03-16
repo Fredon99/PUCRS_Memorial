@@ -24,7 +24,9 @@ Visa testar um carrinho de compras de um e-commerce.
 
 ### Funcionamento
 
-Basta entrar no diretório "02-exemploCarrinhoCompras" e executar os comandos abaixo. Primeiro o comando para instalação de dependências
+Basta entrar no diretório "02-exemploCarrinhoCompras" e executar os comandos abaixo. 
+
+Primeiro o comando para instalação de dependências
 
 ```
 └──> npm install

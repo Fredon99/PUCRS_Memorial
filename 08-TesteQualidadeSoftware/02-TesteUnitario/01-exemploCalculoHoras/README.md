@@ -1,6 +1,6 @@
 ## 01-exemplo Cálculo Horas
 
-Visa testar funções que calculam o salário e descontos de horas de um profissional.
+Visa testar funções que calcula o salário e descontos de horas de um profissional.
 
 ## Requisitos
 
@@ -21,7 +21,9 @@ Visa testar funções que calculam o salário e descontos de horas de um profiss
 
 ### Funcionamento
 
-Basta entrar no diretório "01-exemploCalculoHoras" e executar os comandos abaixo. Primeiro o comando para instalação de dependências
+Basta entrar no diretório "01-exemploCalculoHoras" e executar os comandos abaixo. 
+
+Primeiro o comando para instalação de dependências
 
 ```
 └──> npm install

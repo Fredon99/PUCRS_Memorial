@@ -8,14 +8,6 @@ Foram utilizados dois scripts que visam testar funções ou módulos individuais
 - [Documentação ESLint](https://eslint.org/docs/latest/use/getting-started)
 - [Documentação JEST](https://jestjs.io/docs/getting-started)
 
-### Estrutura do projeto
-
-```
-eslint.config.js
-index.js
-package.json
-```
-
 ## Scripts desenvolvidos
 
 Foram desenvolvidos dois scripts para uma melhor compreensão a cerca de testes de software, sendo eles: 
