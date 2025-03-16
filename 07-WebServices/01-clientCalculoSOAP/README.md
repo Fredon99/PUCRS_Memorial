@@ -5,7 +5,7 @@ Esse script é um cliente SOAP que consome um serviço de cálculo.
 ## Requisitos
 
 - [NodeJS](https://nodejs.org/en)
-- [WSDL](http://www.dneonline.com/calculator.asmx?WSDL)
+- [WSDL - Cálculo](http://www.dneonline.com/calculator.asmx?WSDL)
 
 ### Estrutura do projeto
 
@@ -35,7 +35,7 @@ E na sequência executar o comando abaixo para que seja iniciado o arquivo "serv
 └──> npm start
 ```
 
-### **Routes**
+### **Rotas**
 
 | Method | Endpoint                                    | Description                                           | Auth Required  |
 |--------|---------------------------------------------|-------------------------------------------------------|----------------|

@@ -22,7 +22,7 @@ var myservice = {
     }
 }
 
-const xml = fs.readFileSync('wscalc1.wsdl', 'utf8');
+const xml = fs.readFileSync('server/wscalc1.wsdl', 'utf8');
 
 app.use(bodyParser.raw({type: function(){return true;}, limit: '5mb'}));
 
