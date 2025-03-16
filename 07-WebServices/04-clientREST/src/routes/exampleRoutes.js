@@ -3,6 +3,7 @@ import Example from '../controllers/examplesController.js';
 
 const routes = express.Router()
 
+routes.get('/', Example.mainRoute);
 routes.get('/get', Example.get);
 routes.get('/getbyid/:id', Example.getById);
 routes.post('/post/:id', Example.post);

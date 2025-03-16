@@ -1,5 +1,13 @@
 class Example {
 
+    static async mainRoute(_,res) {
+        try {
+            res.status(200).json({message: "Você está na rota main dos exemplos - Verifique a documentação para acessar as demais rotas."});
+        } catch (error) {
+            res.status(500).json({error: "erro ao acessar rota main dos exemplos"});
+        }
+    };
+
     static async get(_,res) {
         try {
             res.status(200).json({message: "rota de GET"});

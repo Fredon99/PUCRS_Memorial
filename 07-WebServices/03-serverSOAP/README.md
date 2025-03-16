@@ -5,7 +5,7 @@
 ## Requisitos
 
 - [NodeJS](https://nodejs.org/en)
-- [WSDL - Local]()
+- [WSDL - Local](https://github.com/Fredon99/PUCRS_Memorial/blob/main/07-WebServices/03-serverSOAP/server/wscalc1.wsdl)
 
 ### Estrutura do projeto
 

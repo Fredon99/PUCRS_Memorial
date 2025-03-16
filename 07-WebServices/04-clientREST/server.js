@@ -2,7 +2,7 @@ import express from 'express';
 import routes from './src/routes/index.js'
 
 const app = express()
-const port = 3001
+const port = 3012
 
 routes(app)
 
