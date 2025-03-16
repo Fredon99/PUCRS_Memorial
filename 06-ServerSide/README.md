@@ -33,4 +33,3 @@ Um script que provavelmente implementa um CRUD (Create, Read, Update, Delete) us
 ## Tecnologias utilizadas
 
 Como linguagem de programação foi utilizado o JavaScript, o runtime utilizado foi o NodeJS e o framework utilizado foi o Express.
-

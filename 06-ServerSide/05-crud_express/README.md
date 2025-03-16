@@ -9,7 +9,6 @@ Um script que provavelmente implementa um CRUD (Create, Read, Update, Delete) us
 ### Estrutura do projeto
 
 ```
-│   .gitignore
 │   app.js
 │   package-lock.json
 │   package.json
