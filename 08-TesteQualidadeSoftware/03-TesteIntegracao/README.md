@@ -1,14 +1,8 @@
-# API Livraria
+## 03-Teste de Integração
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN)
+Neste projeto foi utilizada uma API de livraria que já havia sido desenvolvido em um bootcamp. Esta API lida com cadastro e manejo de livros, autores e editoras.
 
-## Resumo do projeto
-
-Projeto de API REST para prática de JavaScript.
-Livraria com sistema de cadastro e manejo de livros, autores e editoras.
-
-
-## Stack utilizada
+## Tecnologias utilizadas
 
 * `Node.js` v16.14.2
 * `express` v4.18.1,
@@ -170,17 +164,17 @@ Você pode utilizar o CLI do SQLite para fazer consultas ao banco e conferir se 
   [nodemon] watching path(s): *.*
   [nodemon] watching extensions: js,mjs,json
   [nodemon] starting `node server.js`
-  Servidor escutando em http://localhost:3000
+  Servidor escutando em http://localhost:3013
   ```
 
-* Os recursos da API poderão ser acessados a partir da *base URL* `http://localhost:3000`.
+* Os recursos da API poderão ser acessados a partir da *base URL* `http://localhost:3013`.
 
-  > Esta API está programada para ser acessada a partir de `http://localhost:3000`. Certifique-se de que não existem outros recursos ocupando a porta `3000` antes de subir o projeto.
+  > Esta API está programada para ser acessada a partir de `http://localhost:3013`. Certifique-se de que não existem outros recursos ocupando a porta `3013` antes de subir o projeto.
 
 
 ### Endpoints
 
-A API expõe os seguintes *endpoints* a partir da *base URL* `localhost:3000`:
+A API expõe os seguintes *endpoints* a partir da *base URL* `localhost:3013`:
 
 `/livros`
 * `GET /livros`
@@ -206,8 +200,10 @@ A API expõe os seguintes *endpoints* a partir da *base URL* `localhost:3000`:
 * `DELETE /editoras/:id`
 
 
-## Roadmap
+## Testes
 
-* Autenticação
-* Tratamento de erros
-* Validações
+Foram implantados testes nos "models" e "rotas" da aplicação, e basta executar o comando abaixo para que sejam testados essas funcionalidades da API.
+
+```
+└──> npm run test
+```
