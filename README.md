@@ -10,19 +10,19 @@ Neste repositório, apresento artefatos elaborados ao longo do curso Desenvolvim
 
         02. Array
 
-            01. Array.length 
+            01. Array.length [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/02-Array/01-length.js)
 
-            02. Array.some
+            02. Array.some [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/02-Array/02-some.js)
 
-            03. Array.every
+            03. Array.every [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/02-Array/03-every.js)
 
-            04. Array.filter
+            04. Array.filter [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/02-Array/04-filter.js)
 
-            05. Array.forEach
+            05. Array.forEach [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/02-Array/05-forEach.js)
 
-            06. Array.reduce
+            06. Array.reduce [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/02-Array/06-reduce.js)
 
-            07. Array.map 
+            07. Array.map [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/02-Array/07-map.js)
 
         03. Object [:link:](https://github.com/Fredon99/PUCRS_Memorial/blob/main/01-Fundamentos/01-estrutura%20de%20dados/03-object.js)
 
