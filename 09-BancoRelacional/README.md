@@ -1,16 +1,17 @@
-# Banco de dados NoSQL
+# Banco de dados Relacional
 
-Banco de Dados NoSQL trata do estudo de sistemas de gerenciamento de banco de dados que não utilizam o modelo relacional tradicional. Em vez de organizar os dados em tabelas, como nos bancos relacionais, os bancos NoSQL permitem maior flexibilidade, trabalhando com diferentes modelos de dados, como documentos, chave-valor, grafos e colunas.
-
-Neste tópico em específico será abordado apenas o modelo de documentos através do MongoDB.
+Banco de Dados Relacional trata do estudo e da aplicação de sistemas de gerenciamento de dados que utilizam um modelo relacional para organizar, armazenar e manipular informações. 
 
 ## Requisitos
 
-- [NodeJS](https://nodejs.org/en)
 - [Docker](https://www.docker.com/)
 - [Container Docker - PostgreSQL](https://hub.docker.com/_/postgres)
 - [Container Docker - PgAdmin4](https://www.pgadmin.org/download/)
 - [Visual Paradigm - desenvolvimento de diagramas](https://www.visual-paradigm.com/)
+
+## Objetivo
+
+O objetivo da atividade prática foi tentar solucionar um caso mais próximo do mundo real, onde se utilizava uma única planilha com várias informações, e esses dados precisavam ser organizados e estruturados em um banco de dados relacional.
 
 ## Estrutura dos arquivos e scripts
 
