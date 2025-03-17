@@ -38,13 +38,13 @@ docker run -p 3014:80 --name pgadmin -e "PGADMIN_DEFAULT_EMAIL=<email@email.com>
 
 Na sequência, basta acessar o PgAdmin pelo navegador na porta 3014 e colocar as credenciais utilizadas na criação do container do PgAdmin
 
-![PgAdmin - Login]()
+![PgAdmin - Login](https://github.com/Fredon99/PUCRS_Memorial/blob/main/09-BancoRelacional/05-ModeloFisico/PgAdmin-Login.png)
 
 Para adicionar o servidor PostgreSQL no PgAdmin, basta clicar com o botão direito em "Servers" e na sequência "Register > Server". 
 
 Com isso basta dar um "nome para o servidor" na aba "General", e na aba "Connection" colocar o "IP da sua máquina", "usuário" e "senha" que foram utilizados na criação do container do PostgreSQL.
 
-![PgAdmin - Server]()
+![PgAdmin - Server](https://github.com/Fredon99/PUCRS_Memorial/blob/main/09-BancoRelacional/05-ModeloFisico/PgAdmin-Server.png)
 
 ## Criação e inserção do dados no PostgreSQL
 
