@@ -48,4 +48,8 @@ Com isso basta dar um "nome para o servidor" na aba "General", e na aba "Connect
 
 ## Criação e inserção do dados no PostgreSQL
 
-Para a criação de tabelas e inserção de dados na base de dados basta criar uma nova Database e utilizar a ferramenta "Query Tool" para execução dos scripts "create.sql" e "insert.sql".
+Para a criação de tabelas e inserção de dados na base de dados, basta criar uma nova Database e utilizar a ferramenta "Query Tool" para execução dos scripts "create.sql" e "insert.sql".
+
+Na imagem a seguir foi criada a "TabelaDepartamento" como demonstrativo dos passos supracitados.
+
+![PgAdmin - Database](https://github.com/Fredon99/PUCRS_Memorial/blob/main/09-BancoRelacional/05-ModeloFisico/PgAdmin-Database.png)
