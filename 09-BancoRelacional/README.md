@@ -36,7 +36,3 @@ A normalização é o processo de organizar os dados de um banco de dados para r
 ## 05-Modelo físico
 
 O modelo físico detalha a implementação real do banco de dados, definindo como os dados serão armazenados no sistema, incluindo índices, arquivos e alocação de memória.
-
-## Tecnologias utilizadas
-
-Como linguagem de programação foi utilizado o JavaScript, o runtime utilizado foi o NodeJS, o framework utilizado foi o Express, e como ferramentas de teste foram utilizados o ESLint e o Jest.
