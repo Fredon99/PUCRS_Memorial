@@ -6,36 +6,50 @@ Neste tópico em específico será abordado apenas o modelo de documentos atrav�
 
 ## Requisitos
 
-- [NodeJS](https://nodejs.org/en)
 - [Docker](https://www.docker.com/)
+- [Container Docker - Mongo](https://hub.docker.com/_/mongo)
 - [Container Docker - PostgreSQL](https://hub.docker.com/_/postgres)
-- [Container Docker - PgAdmin4](https://www.pgadmin.org/download/)
-- [Visual Paradigm - desenvolvimento de diagramas](https://www.visual-paradigm.com/)
+- [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+
+
+## Instalação
+
+A primeira etapa que deve ser realizada é a instalação do [Docker](https://www.docker.com/), na sequência basta baixar a imagem do MongoDB através do comando:
+
+```
+docker pull mongo
+```
+
+Para executar a imagem baixada basta executar o comando abaixo
+
+```
+docker run --name mongodb -p 27017:27017 -d mongo
+```
+
+A próxima etapa é fazer a instalação do MongoDB Compass através do site [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+
+
+Uma vez instalado o Compass, base criar uma nova conexão apontando para o container do MongoDB. Como é ilustrado na figura abaixo
+
+![MongoDB-Connection]()
+
+
+Com isso, é necessário cirar uma base e uma coleção. E na sequência basta executar os comandos para inserção de dados em uma determinada base que as coleções serão criadas automaticamente. Como é mostrado na imagem abaixo
+
+![MongoDB-Creation]()
 
 ## Estrutura dos arquivos e scripts
 
-Foram desenvolvidos três scripts para uma melhor compreensão a cerca de testes de software, sendo eles: 
+Foram desenvolvidos três pastas contendo os códigos necessários inserção, busca e junção de informaçõs no MongoDB. Essas pastas estão descritas a seguir:
 
-### 01-Minimundo
+### 01-Inserts
 
-O minimundo representa a realidade de um sistema de informações, onde se busca identificar e compreender as entidades e relações importantes dentro de um contexto específico.
+Diretório que contém os scripts para inserir documentos em coleções do MongoDB através do comando insertOne()
 
-### 02-Modelo conceitual
+### 02-Busca
 
-O modelo conceitual descreve a estrutura lógica do sistema de dados, focando nas entidades, atributos e relações, sem se preocupar com detalhes de implementação.
+Scripts para buscar documentos no MongoDB.
 
-### 03-Modelo Lógico
+### 03-Join
 
-O modelo lógico organiza e estrutura as informações de maneira mais detalhada, adequando-se a um modelo de banco de dados relacional, definindo tabelas, chaves e relações entre os dados.
-
-### 04-Normalização
-
-A normalização é o processo de organizar os dados de um banco de dados para reduzir redundâncias e dependências, visando a integridade e eficiência do armazenamento.
-
-## 05-Modelo físico
-
-O modelo físico detalha a implementação real do banco de dados, definindo como os dados serão armazenados no sistema, incluindo índices, arquivos e alocação de memória.
-
-## Tecnologias utilizadas
-
-Como linguagem de programação foi utilizado o JavaScript, o runtime utilizado foi o NodeJS, o framework utilizado foi o Express, e como ferramentas de teste foram utilizados o ESLint e o Jest.
+Scripts que realizam junções de coleções no MongoDB através de agregação.

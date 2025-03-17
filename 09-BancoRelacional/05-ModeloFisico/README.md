@@ -12,7 +12,7 @@ Na etapa de modelo físico, é realizado o processo de definição detalhada da 
 
 ## Container Postgresql e PgAdmin4
 
-A primeir etapa que deve ser realizada é a instalação do [Docker](https://www.docker.com/), na sequência basta baixar a imagem do PostgreSQL através do comando:
+A primeira etapa que deve ser realizada é a instalação do [Docker](https://www.docker.com/), na sequência basta baixar a imagem do PostgreSQL através do comando:
 
 ```
 docker pull postgres
