@@ -1,7 +1,7 @@
 Exemplo de pedidos
 ===================================
 
-Este exemplo utiliza proxy reverso através da biblioteca "http-middleware-proxy" para fazer a integração entre o serviço de usuário e pedidos.
+Este exemplo utiliza proxy reverso através da biblioteca "http-proxy-middleware" para fazer a integração entre o serviço de usuário e pedidos.
 
 ## Estrutura do projeto
 
